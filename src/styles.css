@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+.done {
+    text-decoration: line-through;
+}
+
+body {
+    background-color: rgb(231, 146, 49);
+}
+h1{
+ font-family: sans-serif;
+}
+
